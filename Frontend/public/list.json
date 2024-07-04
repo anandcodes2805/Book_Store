@@ -1,0 +1,56 @@
+[
+    {
+        "id": 7,
+        "name": "Hindi Kavitayein",
+        "title": "Random Knowledge book full of fun",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    },
+
+    {
+        "id": 8,
+        "name": "Sports Today",
+        "title": "Random Knowledge book full of fun",
+        "price": 30,
+        "category": "Sports",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    },
+
+    {
+        "id": 9,
+        "name": "Pancha-Tantra",
+        "title": "Random Knowledge book full of fun",
+        "price": 50,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    },
+
+    {
+        "id": 10,
+        "name": "How to write Cursive",
+        "title": "Random Knowledge book full of fun",
+        "price": 0,
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    },
+
+    {
+        "id": 11,
+        "name": "Malgudi Days",
+        "title": "Random Knowledge book full of fun",
+        "price": 20,
+        "category": "Entertainment",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    },
+
+    {
+        "id": 12,
+        "name": "My Experiment with Truth",
+        "title": "Random Knowledge book full of fun",
+        "price": 50,
+        "category": "AutoBioGraphy",
+        "image": "https://img.freepik.com/free-vector/open-book-forest-theme-with-animal-white-background_1308-107677.jpg?t=st=1720041176~exp=1720044776~hmac=518dd2ca42e087f0e1c17e94b32793b7d647356f254741fd38c29974ba1d6d0b&w=740"
+    }
+
+]
